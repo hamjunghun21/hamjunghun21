@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I am Junghun Han in ISHS 30th!
+### I am the principle of RAIBIT which is a Coding Club in ISHS.
+
 <!--
 **hamjunghun21/hamjunghun21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
