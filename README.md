@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Junghun Han in ISHS 30th!
+### I am Junghun Ham in ISHS 30th!
 ### I am the principle of RAIBIT which is a Coding Club in ISHS.
 
 <!--
